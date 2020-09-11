@@ -2,7 +2,7 @@
 title = "Come creare un nuovo tema"
 description = "Description of my awesome project."
 date = 2020-09-11T02:13:50Z
-author = "Carlo Mario Chierotti"
+author = "Chieroz"
 +++
 
 ## Introduction
