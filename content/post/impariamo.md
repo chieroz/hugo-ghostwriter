@@ -1,7 +1,7 @@
 +++
 title = "Impariamo Hugo"
 description = "Prime impressioni di utilizzo di Hugo"
-date = "2020-09-10T17:47:39+02:00"
+date = "2020-09-11T17:47:39+02:00"
 author = "Chieroz"
 +++
 
