@@ -15,3 +15,5 @@ Poi proverò a studiare la documentazione e a trasfomare il mio [sito](https://c
 Purtroppo al momento non sembrano esistere molti temi belli per un contenuto come il mio.
 
 Sono riuscito a effettuare il deploy su [Netlify](https://netlify.com), vediamo se si aggiorna.
+
+Molto bene: è confermato che il sito remoto si aggiorna a ogni deploy.
