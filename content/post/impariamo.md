@@ -1,8 +1,9 @@
----
-title: "Impariamo Hugo"
-date: 2020-09-10T17:47:39+02:00
-draft: false
----
++++
+title = "Impariamo Hugo"
+description = "Prime impressioni di utilizzo di Hugo"
+date = "2020-09-10T17:47:39+02:00"
+author = "Chieroz"
++++
 
 ## Proviamo a scrivere qualcosa
 
@@ -21,3 +22,5 @@ Molto bene: è confermato che il sito remoto si aggiorna a ogni deploy.
 ### Milestones
 
 Penso di avere capito che la soluzione migliore potrebbe essere [Vercel](https://vercel.com) rispetto a [Netlify](https://netlify.com) come semplicità, numero di prove/errore prima di ottenere un deploy funzionante e anche per la maggiore facilità di configurazione del DNS. Vercel gestisce in maniera autonoma (e subito funzionante) anche il certificato con Let's Encrypt.
+
+In realtà anche Netlify gestisce correttamente i certificati: è la dashboard del sito ad avere qualche problemino. Per il momento non scegliamo uno dei due, visto che hanno un free tier abbastanza generoso.
