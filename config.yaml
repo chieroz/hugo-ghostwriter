@@ -1,14 +1,13 @@
 baseurl: "/"
 title: "Home"
 theme: "ghostwriter"
-copyright: Carlo Mario
+copyright: Chieroz
 
 author:
   name: "Chieroz"
   facebook: "https://facebook.com/chieroz"
   twitter: "https://twitter.com/chieroz"
   email: "contact@hugo.local"
-  name: "Chieroz Inc"
   location: Bricherasio
 
 params:
