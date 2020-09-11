@@ -1,0 +1,42 @@
+baseurl: "/"
+title: "Home"
+theme: "ghostwriter"
+copyright: Carlo Mario
+
+author:
+  name: "Chieroz"
+  facebook: "https://facebook.com/chieroz"
+  twitter: "https://twitter.com/chieroz"
+  email: "contact@hugo.local"
+  name: "Chieroz Inc"
+  location: Bricherasio
+
+params:
+  mainSections: ["post"]
+  intro: true
+  headline: "Blog di Chieroz"
+  description: "Sto imparando a usare Hugo"
+  github: "https://github.com/chieroz"
+  twitter: "https://twitter.com/chieroz"
+  email: "carlomario@chierotti.it"
+  opengraph: true
+  shareTwitter: true
+  dateFormat: "Mon, Jan 2, 2006"
+
+permalinks:
+  post: "/:filename/"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Projects"
+      url: "/project/"
+      weight: 2
+    - name: "Contact"
+      url: "/page/contact/"
+      weight: 3
+    - name: "About"
+      url: "/page/about/"
+      weight: 4
