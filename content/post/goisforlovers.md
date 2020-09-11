@@ -1,5 +1,5 @@
 +++
-title = "(Hu)go Template Primer"
+title = "(Hu)go Template per Imbranati"
 description = "(Hu)go Template Primer description."
 tags = [
     "go",
@@ -58,7 +58,6 @@ Accessing the Page Parameter "bar"
 **Parentheses can be used to group items together**
 
     {{ if or (isset .Params "alt") (isset .Params "caption") }} Caption {{ end }}
-
 
 ## Variables
 
@@ -135,12 +134,11 @@ range.
 If, else, with, or, & and provide the framework for handling conditional
 logic in Go Templates. Like range, each statement is closed with `end`.
 
-
 Go Templates treat the following values as false:
 
-* false
-* 0
-* any array, slice, map, or string of length zero
+- false
+- 0
+- any array, slice, map, or string of length zero
 
 **Example 1: If**
 
@@ -248,7 +246,6 @@ data of each specific piece of content. You can define any values of any
 type (supported by your front matter/config format) and use them however
 you want to inside of your templates.
 
-
 ## Using Content (page) Parameters
 
 In each piece of content you can provide variables to be used by the
@@ -282,6 +279,7 @@ Here is the corresponding code inside of the template:
       {{ end }}
 
 ## Using Site (config) Parameters
+
 In your top-level configuration file (eg, `config.yaml`) you can define site
 parameters, which are values which will be available to you in chrome.
 
@@ -297,7 +295,7 @@ params:
 Within a footer layout, you might then declare a `<footer>` which is only
 provided if the `CopyrightHTML` parameter is provided, and if it is given,
 you would declare it to be HTML-safe, so that the HTML entity is not escaped
-again.  This would let you easily update just your top-level config file each
+again. This would let you easily update just your top-level config file each
 January 1st, instead of hunting through your templates.
 
 ```
@@ -330,5 +328,5 @@ so, such as in this example:
 </nav>
 ```
 
-[go]: <https://golang.org/>
-[gohtmltemplate]: <https://golang.org/pkg/html/template/>
+[go]: https://golang.org/
+[gohtmltemplate]: https://golang.org/pkg/html/template/
