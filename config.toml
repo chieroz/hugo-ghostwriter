@@ -1,0 +1,18 @@
+baseurl = "/"
+title = "My blog"
+theme = "ghostwriter"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "My headline"
+    description = "My description"
+    github = "https://github.com/chieroz"
+    twitter = "https://twitter.com/chieroz"
+    email = "carlomario@chierotti.it"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"
