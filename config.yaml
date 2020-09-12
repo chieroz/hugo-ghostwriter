@@ -30,8 +30,8 @@ menu:
     - name: "Home"
       url: "/"
       weight: 1
-    - name: "Projects"
-      url: "/project/"
+    - name: "Articles"
+      url: "/article/"
       weight: 2
     - name: "Contact"
       url: "/page/contact/"
