@@ -33,9 +33,12 @@ menu:
     - name: "Articles"
       url: "/article/"
       weight: 2
+    - name: "Rich Content"
+      url: "/rich/"
+      weight: 3
     - name: "Resources"
       url: "/page/resources"
-      weight: 3
+      weight: 4
     - name: "Contact"
       url: "/page/contact/"
       weight: 4
