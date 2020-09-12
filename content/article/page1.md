@@ -1,15 +1,15 @@
-+++
-title = "The Sprawl"
-description = "from Gibson books"
-date = "2020-09-11T17:47:39+02:00"
-author = "Chieroz"
-+++
+---
+title: "The Sprawl"
+description: "Built with Lorem Gibson"
+date: "2020-09-11T17:47:39+02:00"
+author: "Chieroz"
+---
 
 ## The Sprawl was a steady pulse
 
 A graphic representation of data abstracted from the Chinese program’s thrust, a worrying impression of solid fluidity, as though the shards of a broken mirror bent and elongated as they rotated, but it never told the correct time.
 
-They floated in the puppet place had been a subunit of Freeside’s security system. It was chambered for .22 long rifle, and Case would’ve preferred lead azide explosives to the Tank War, mouth touched with hot gold as a gliding cursor struck sparks from the wall of a skyscraper canyon. They floated in the coffin for Armitage’s call. Its hands were holograms that altered to match the convolutions of the spherical chamber.
+> They floated in the puppet place had been a subunit of Freeside’s security system. It was chambered for .22 long rifle, and Case would’ve preferred lead azide explosives to the Tank War, mouth touched with hot gold as a gliding cursor struck sparks from the wall of a skyscraper canyon. They floated in the coffin for Armitage’s call. Its hands were holograms that altered to match the convolutions of the spherical chamber.
 
 He’d waited in the puppet place had been a subunit of Freeside’s security system. Splayed in his elastic g-web, Case watched the other passengers as he made his way down Shiga from the sushi stall he cradled it in his sleep, and wake alone in the human system.
 

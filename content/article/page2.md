@@ -1,9 +1,9 @@
-+++
-title = "She put his pistol down"
-description = "from Gibson books"
-date = "2020-09-11T18:47:39+02:00"
-author = "Chieroz"
-+++
+---
+title: "She put his pistol down"
+description: "Built with Lorem Gibson"
+date: "2020-09-11T18:47:39+02:00"
+author: "Chieroz"
+---
 
 ## She put his pistol down
 
