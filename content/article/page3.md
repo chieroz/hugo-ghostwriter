@@ -2,7 +2,6 @@
 title: "Lorem Ipsum"
 description: "Built with Lorem Ipsum plugin"
 date: 2020-09-12T11:18:49+02:00
-draft: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
