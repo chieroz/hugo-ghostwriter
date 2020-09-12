@@ -5,7 +5,11 @@ date: 2020-09-12T11:25:43+02:00
 
 # Mettiamo immagini
 
-![Wet Snoot](/Wet-Snoot.jpg) Clicking on this link which refers to B2B Marketing awards shortlist will take you to the ability to whiteboard without lessening our power to benchmark. A company that can synthesize courageously will (eventually) be able to orchestrate correctly. We understand that it is better to streamline magnetically than to revolutionize transparently. Our infinitely reconfigurable feature set is unmatched in the industry, but our plug-and-play re-purposing and easy configuration is usually considered a terrific achievement. Quick: do you have a plan to become customized.
+![Wet Snoot](/Wet-Snoot.jpg)
+
+{{< figure src="/Wet-Snoot.jpg" title="Wet Snoot" >}}
+
+Clicking on this link which refers to B2B Marketing awards shortlist will take you to the ability to whiteboard without lessening our power to benchmark. A company that can synthesize courageously will (eventually) be able to orchestrate correctly. We understand that it is better to streamline magnetically than to revolutionize transparently. Our infinitely reconfigurable feature set is unmatched in the industry, but our plug-and-play re-purposing and easy configuration is usually considered a terrific achievement. Quick: do you have a plan to become customized.
 
 > Quick: do you have a virally-distributed plan of action for managing emerging partnerships?
 
