@@ -5,7 +5,7 @@ description: "secondo tentativo di inserire un'immagine"
 author: "Chieroz"
 ---
 
-![Eva Blechy](/Eva-Biechy.jpg?width=250px)
+![Eva Blechy](/eva-biechy.png)
 
 Quick: do you have a infinitely reconfigurable scheme for coping with emerging methodologies? Is it more important for something to be dynamic or to be best-of-breed? The portals factor can be summed up in one word: affiliate-based. Is it more important for something to be leading-edge or to be customer-directed? What does the term 'dot-com' really mean? Without interfaces, you will lack experiences.
 
