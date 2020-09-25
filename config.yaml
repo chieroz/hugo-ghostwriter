@@ -30,18 +30,18 @@ menu:
     - name: "Home"
       url: "/"
       weight: 1
-    - name: "Articles"
-      url: "/article/"
+    - name: "Articoli"
+      url: "/articoli/"
       weight: 2
-    - name: "Rich Content"
-      url: "/rich/"
+    - name: "Media"
+      url: "/media"
       weight: 3
-    - name: "Resources"
-      url: "/page/resources"
+    - name: "Pagine"
+      url: "/pagine/"
       weight: 4
     - name: "Contact"
       url: "/page/contact/"
-      weight: 4
+      weight: 10
     - name: "About"
       url: "/page/about/"
-      weight: 9
+      weight: 20
