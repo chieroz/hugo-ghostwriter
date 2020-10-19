@@ -2,13 +2,14 @@ baseurl: "/"
 title: "Home"
 theme: "ghostwriter"
 copyright: Chieroz
+googleAnalytics: "UA-89722916-3"
 
 author:
   name: "Chieroz"
   facebook: "https://facebook.com/chieroz"
   twitter: "https://twitter.com/chieroz"
   email: "contact@hugo.local"
-  location: Bricherasio
+  location: Torino
 
 params:
   mainSections: ["post"]
