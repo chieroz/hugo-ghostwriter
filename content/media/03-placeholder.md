@@ -7,7 +7,7 @@ weight: 30
 slug: placeholder
 ---
 
-![Placeholder](http://via.placeholder.com/640x360)
+![Placeholder](https://via.placeholder.com/640x360)
 
 The semiotics of the Flatline as a construct, a hardwired ROM cassette replicating a dead man’s skills, obsessions, kneejerk responses. 
 
