@@ -32,7 +32,7 @@ menu:
       url: "/"
       weight: 1
     - name: "Articoli"
-      url: "/articoli/"
+      url: "/article/"
       weight: 2
     - name: "Media"
       url: "/media"
