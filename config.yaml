@@ -22,6 +22,8 @@ params:
   opengraph: true
   shareTwitter: true
   dateFormat: "Mon, Jan 2, 2006"
+  plausibleAnalytics:
+    domain: "hugo.chierotti.it"
 
 permalinks:
   post: "/:filename/"
