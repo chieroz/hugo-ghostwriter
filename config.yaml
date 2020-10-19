@@ -39,9 +39,6 @@ menu:
     - name: "Media"
       url: "/media"
       weight: 3
-    - name: "Pagine"
-      url: "/page/"
-      weight: 4
     - name: "Contact"
       url: "/page/contact/"
       weight: 10
