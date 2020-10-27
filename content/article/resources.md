@@ -19,3 +19,7 @@ weight: 1
 
 - [Catalogo Generale](https://themes.gohugo.io/)
 - [Toha](https://themes.gohugo.io/toha/)
+
+## Migrazione da Wordpress a Hugo
+
+[Migrate away from Wordpress to Hugo](https://neuralmarkettrends.com/tutorials/wordpress-hugo-aws-amplify/) (spiega anche come usare AWS Amplify)
