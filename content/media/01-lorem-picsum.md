@@ -9,7 +9,7 @@ slug: lorem picsum
 
 # Con LoremPicsum
 
-![Lorem Pixum](https://picsum.photos/500/300)
+![Lorem Pixum](https://picsum.photos/400/200)
 
 [lorem picsum](https://picsum.photos/)
 
