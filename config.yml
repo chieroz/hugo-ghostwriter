@@ -2,13 +2,13 @@ baseurl: "/"
 title: "Home"
 theme: "ghostwriter"
 copyright: Chieroz
-googleAnalytics: "UA-89722916-3"
+languageCode: it-it
 
 author:
   name: "Chieroz"
   facebook: "https://facebook.com/chieroz"
   twitter: "https://twitter.com/chieroz"
-  email: "contact@hugo.local"
+  email: "carlomario@chierotti.it"
   location: Torino
 
 params:
