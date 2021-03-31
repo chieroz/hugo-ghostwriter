@@ -17,6 +17,10 @@ Clicking on this link which refers to B2B Marketing awards shortlist will take y
 
 > Otaku-space motion meta-vehicle free-market katana. Corrupted RAF neural Chiba nano-j-pop disposable shanty town towards.
 
+## Un altra immagine
+
+![Lorem Pixum](https://picsum.photos/800/450)
+
 Without data hygiene supervising, you will lack architectures. We will scale up our capacity to harness mega-holistically. We will whiteboard the ability of cyber-TQC to leverage.
 
 > Drugs wonton soup neural assassin DIY shoes stimulate vehicle lights geodesic saturation point car vinyl convenience store corporation Legba. Engine nano-dome towards boat uplink man faded papier-mache grenade hotdog. Sensory corrupted corporation paranoid cartel free-market vehicle.
