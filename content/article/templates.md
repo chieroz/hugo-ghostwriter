@@ -9,7 +9,7 @@ tags:
   - development
 date: 2020-09-12
 author: Chieroz
-weight: 20
+weight: 50
 ---
 
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for
