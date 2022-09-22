@@ -2,7 +2,6 @@
 categories = []
 date = 2022-09-21T22:00:00Z
 description = "Ripassiamo i fondamentali"
-draft = true
 tags = ["forestry", "hugo"]
 title = "Oh My Goodness"
 weight = nil
