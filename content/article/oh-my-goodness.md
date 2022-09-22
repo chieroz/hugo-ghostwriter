@@ -1,12 +1,13 @@
-+++
-categories = []
-date = 2022-09-21T22:00:00Z
-description = "Ripassiamo i fondamentali"
-tags = ["forestry", "hugo"]
-title = "Oh My Goodness"
-weight = nil
+---
+date: 2022-09-21T22:00:00Z
+description: Ripassiamo i fondamentali
+tags:
+  - forestry
+  - hugo
+title: Oh My Goodness
+weight: 10
+---
 
-+++
 Facciamo il punto.
 
 Sto scrivendo questo articolo dentro forestry, il sito è ospitato su Vercel e **se non ho capito male** si aggiorna automaticamente ogni volta che pubblico un nuovo articolo o un nuovo post.
