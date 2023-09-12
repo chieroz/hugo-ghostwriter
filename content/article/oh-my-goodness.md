@@ -17,3 +17,5 @@ Sto scrivendo questo articolo dentro forestry, il sito è ospitato su Vercel e *
 Qui sopra si dovrebbe vedere un'immagine che ho caricato dal mio computer. Mi piacerebbe che si potesse far girare il testo attorno all'immagine ma temo che non sia possibile.
 
 Oggi è il 12 settembre 2023, vediamo se il sito si aggiorna con questo testo.
+
+Sempre il 12 settembre 2023: ho dovuto aggiornare la versione di NodeJS ma poi il deployment automatico di Vercel ha funzionato.
